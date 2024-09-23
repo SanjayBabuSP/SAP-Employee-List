@@ -1,0 +1,30 @@
+[
+    {
+      "EmployeeID": "001",
+      "FirstName": "S P Sanjay",
+      "LastName": "Babu",
+      "dateOfJoining": "2024-09-09",
+      "Address": "Periyar Nagar"
+    },
+    {
+      "EmployeeID": "002",
+      "FirstName": "Vishal",
+      "LastName": "SivaKumar",
+      "dateOfJoining": "2024-05-15",
+      "Address": "Guindy"
+    },
+    {
+      "EmployeeID": "003",
+      "FirstName": "Loha",
+      "LastName": "Priya",
+      "dateOfJoining": "2024-05-15",
+      "Address": "Mugapeyiar"
+    },
+    {
+      "EmployeeID": "004",
+      "FirstName": "Rahul",
+      "LastName": "Mondal",
+      "dateOfJoining": "2024-05-15",
+      "Address": "Koyembedu"
+    }
+  ]
